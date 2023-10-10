@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/stars-on-wavy-blue-background-jwbrdvq4robq00ws.jpg);
+}
+
+#two{
+    background-color:rgb(27, 27, 139);
+    height: 600px;
+    width: 50%;
+    margin-left: 400px;
+    margin-top: 80px;
+    border: 7px solid blue;
+
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+p{
+
+    padding-left: 120px;
+    padding-right:160px;
+    margin-left: 20px;
+    color: lightgoldenrodyellow;
+}
+h5{
+    padding-left: 100px;
+    padding-top: 20px;
+    color: blue;
+
+}
+hr{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -10px;
+    border: 1px solid blue;
+    
+
+}
+button{
+    background-color: rgb(27, 27, 139);
+    margin-left: 40%;
+    margin-top: 40px;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    padding-left: 10px; 
+}
